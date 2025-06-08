@@ -40,6 +40,18 @@ c. analyze engine vibration
 ⚠️
 
 [AMAZON](https://www.amazon.in)
+<p align=right>
+<a href=https://github.com/user-attachments/assets/13210397-95c9-45b0-8446-9d7244002b57>
+<img src=https://github.com/user-attachments/assets/13210397-95c9-45b0-8446-9d7244002b57 width=200 height=200/>
+🔄 Related words:
+Student – typically used in formal education settings. 
 
+Trainee – used in job or professional training.
+
+Apprentice – someone learning a trade.
+
+Novice / Beginner – someone new to a subject.
+</a>
+</p>
 
 
