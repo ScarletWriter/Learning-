@@ -28,13 +28,18 @@ c. analyze engine vibration
 
 <p align=right>
 <a href="https://github.com/user-attachments/assets/43a57a83-42b1-404d-89ea-3166e9721641">
-<img src="https://github.com/user-attachments/assets/43a57a83-42b1-404d-89ea-3166e9721641" width=200 height=400 />
+<img src="https://github.com/user-attachments/assets/43a57a83-42b1-404d-89ea-3166e9721641" width=50 height=50 />
+</a>
+<a href=https://github.com/user-attachments/assets/79e9f73e-ddad-4cc6-b70d-84dd53b1ca12>
+<img src=https://github.com/user-attachments/assets/79e9f73e-ddad-4cc6-b70d-84dd53b1ca12/ width=50 height=50>
+</a>
+<a href=https://github.com/user-attachments/assets/56e02ca8-d1a8-438b-a369-0b2ae10e0c95>
+<img src=https://github.com/user-attachments/assets/56e02ca8-d1a8-438b-a369-0b2ae10e0c95/ width=50 height=50>
 </a>
 </p>
+⚠️
 
-<p align=right>
-<a href=https://github.com/user-attachments/assets/43a57a83-42b1-404d-89ea-3166e9721641>
-<img src=https://github.com/user-attachments/assets/43a57a83-42b1-404d-89ea-3166e9721641/>
-</a>
-</p>
-  
+[AMAZON](https://www.amazon.in)
+
+
+
