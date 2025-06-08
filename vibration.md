@@ -25,4 +25,10 @@ c. analyze engine vibration
   <img src="https://github.com/docmagician/docmagician/blob/9ab300d111f3739c8f6ba912a4fe803a27224244/assets/confluence-svgrepo-com.svg" width="55" height="55">
  </a>
 </p>
+
+<p align=right>
+<a href="https://github.com/user-attachments/assets/43a57a83-42b1-404d-89ea-3166e9721641">
+<img src="https://github.com/user-attachments/assets/43a57a83-42b1-404d-89ea-3166e9721641" width=200 height=400 />
+</a>
+</p>
   
