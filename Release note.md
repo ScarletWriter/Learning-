@@ -1,8 +1,8 @@
 # 📢 **WHATSUP RELEASE NOTE**
 [Version 23.o]  
 {Date: June 2025}  
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/095cf72e-b451-426c-802f-6af40ffb45ad" alt="icon" width="800" height="400" />
+<div align="center">   
+  <img src="https://github.com/user-attachments/assets/608f5695-b27d-401a-a1dc-0d763176928f" alt="icon" width="800" height="400"/>
 </div> 
 
 These new features are introduced to improve your security, privacy settings and self-expression on WhatsApp.  
@@ -12,7 +12,7 @@ Protect your account with **passkeys**, which uses biometric authentication such
 **To enable:**
  **Go to Settings > Account > Passkey** 
  
- <img src="https://github.com/user-attachments/assets/5a8d79c4-1b4a-44d2-b163-c8c4cf90466f" alt="icon" width="200" height="200" />
+ <img src="https://github.com/user-attachments/assets/28082580-5ab4-416b-9d05-ad1a27f4d030" alt="icon" width="200" height="200" />
 
  ### 🟢 **Who can see your Online Status on WhatsApp**  
  You can manage, who sees your *Last seen* and *online status* on WhatsApp to protect your privacy. By default, your contacts and anyone you have messaged can view this information  
@@ -32,7 +32,7 @@ Protect your account with **passkeys**, which uses biometric authentication such
  Now you can personalize your video calls on WhatsApp with **backgrounds, visual effects and filters.** Whether you are in a professional meeting or casual chat, you can express for every mood, from serious to silly.  
  To use this feature, click **background, filters, effects** icon during a call.  
 <div align="centre">
-  <img src="https://github.com/user-attachments/assets/70b47c8d-f97e-4a84-85fb-add59311d35e" alt="icon" width="300" height="300" />
+  <img src="https://github.com/user-attachments/assets/9793d795-319a-4caf-9884-f1e8ea706c07" alt="icon" width="300" height="300" />
 </div>
 
  ### 🎵 **Add Music to Your Status**  
