@@ -18,7 +18,12 @@ The Open Library API is public and does not require authentication.
 - Exceeding limits returns a 429 Too Many Requests status.
 ## Endpoints  
 ### GET /search.json  
+*Search for books by title, author, or ISBN.*  
+### Query Parameters  
 
-
-
+| Parameter	                       | Type	                   | Description                                |
+|----------------------------------|-------------------------|--------------------------------------------|
+|     q                            |  string                 | 	Search query (required)                   |
+| page                             | int                     | Page number (default: 1)                   |
+| limit                            | int                     | Results per page (default: 10, max: 100)   |
 
