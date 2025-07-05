@@ -13,7 +13,7 @@ https://openlibrary.org
 ``   
 ## Authentication
 The Open Library API is public and does not require authentication.  
-## Rate Limits  
+### Rate Limits  
 - 100 requests/minute per IP address.
 - Exceeding limits returns a 429 Too Many Requests status.
 ## Endpoints  
@@ -53,7 +53,30 @@ curl -X GET "https://openlibrary.org/search.json?q=harry+potter&limit=2"
 }
   ```````````  
 
-## **GET /works/{work_id}.json**
+## **GET /works/{work_id}.json**  
+*Fetch author details by Open Library author ID.*  
+### Example Request  
+``curl -X GET "https://openlibrary.org/authors/OL34178A.json"``  
+### Example Response   
+```
+{  
+  "name": "J.K. Rowling",  
+  "personal_name": "Joanne Rowling",  
+  "birth_date": "1965-07-31",  
+  "bio": "British author and philanthropist..."  
+}
+```
+## Error Handling  
+### Common Status Codes  
+- ``404 Not Found``: Invalid work/author ID.
+- ``429 Too Many Requests``: Rate limit exceeded.
+### Example Error Response  
+```
+{  
+  "error": "notfound",  
+  "message": "Work ID OL123456Z does not exist."  
+}  
+```  
 
 
 
