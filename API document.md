@@ -25,5 +25,37 @@ The Open Library API is public and does not require authentication.
 |----------------------------------|-------------------------|--------------------------------------------|
 |     q                            |  string                 | 	Search query (required)                   |
 | page                             | int                     | Page number (default: 1)                   |
-| limit                            | int                     | Results per page (default: 10, max: 100)   |
+| limit                            | int                     | Results per page (default: 10, max: 100)   |  
+
+## Example Request
+``
+curl -X GET "https://openlibrary.org/search.json?q=harry+potter&limit=2"
+``  
+## Example Response  
+```````````
+{  
+  "numFound": 215,  
+  "start": 0,  
+  "docs": [  
+    {  
+      "title": "Harry Potter and the Philosopher's Stone",  
+      "author_name": ["J.K. Rowling"],  
+      "isbn": ["978-0439708180"],  
+      "first_publish_year": 1997  
+    },  
+    {  
+      "title": "Harry Potter and the Chamber of Secrets",  
+      "author_name": ["J.K. Rowling"],  
+      "isbn": ["978-0439064873"],  
+      "first_publish_year": 1998  
+    }  
+  ]  
+}
+  ```````````  
+
+## **GET /works/{work_id}.json**
+
+
+
+
 
