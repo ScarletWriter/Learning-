@@ -6,4 +6,4 @@ This repository contains samples of my work as a **Technical writer.** It is cre
 - [Release NOTE](https://github.com/ScarletWriter/Learning-/blob/main/Release%20note.md)
 
 
-**Thanku for visiting** 
+<p> align=center Thanku for visiting </p>
