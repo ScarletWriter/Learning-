@@ -4,7 +4,7 @@ Git is a popular version control features for managing both code and documentati
 Let’s see, why Git is preferred choice for developers and documentation teams.  
 ## What Is Git?  
 Git is a distributed version control system that helps individuals and teams manage changes to files. it allows every user to have a complete copy of the entire project history on their local machine. This makes Git fast, reliable, and suitable for both small teams and large, complex projects.  
-Platforms like GitHub, GitLab, and Bitbucket are built around Git and provide additional features for project management and collaboration.  
+Platforms like **GitHub, GitLab, and Bitbucket** are built around Git and provide additional features for project management and collaboration.  
 **Advantages of Using Version Control**:  
 1.	**Tracks Changes**  
    Version control keeps a record of every change made to a file. It allows users to see what was changed, who made the change, and when it made.
