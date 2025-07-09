@@ -1,6 +1,16 @@
 # How Version Control Maintains Document Quality  
-**Version control** is a system that track, manage and control changes to files. It allows multiple people to work on the same files without interfering each other’s work. Technical writers, developers and tester can view the history of changes, identify who made each change, and restore previous versions when needed. Version control improves collaboration, reduces errors, and ensures content is always up-to-date and accurate.  
-<img width="446" height="188" alt="Image" src="https://github.com/user-attachments/assets/8c12aa9f-c299-4d52-b690-1a95915acd7b" />  
+**Version control** is a system that track, manage and control changes to files. It allows multiple people to work on the same files without interfering each other’s work. Technical writers, developers and tester can view the history of changes, identify who made each change, and restore previous versions when needed. Version control improves collaboration, reduces errors, and ensures content is always up-to-date and accurate. 
+
+
+
+
+
+<img width="446" alt="Screenshot 2025-07-06 215824" src="https://github.com/user-attachments/assets/84f011c3-628c-411f-be5a-1e267b5e8247" />
+
+
+
+
+
 
 **Git** is a popular version control features for managing both code and documentation effectively. **Confluence** provides basic version control for team collaboration, knowledge bases, and documentation.  
 
